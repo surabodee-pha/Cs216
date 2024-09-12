@@ -1,0 +1,14 @@
+{
+  "name": "cs261-group2",
+  "version": "1.0.0",
+  "description": "Frotend of Web App Request Form.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surabodee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
